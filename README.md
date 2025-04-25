@@ -24,8 +24,6 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 # CODE
-## My city
-![image](https://github.com/user-attachments/assets/86af1742-0244-4b3a-921c-57b59fabb0fc)
 ```
 <html>
     <head>
@@ -176,7 +174,8 @@ sesha.html
 
 ```
 # OUTPUT:
-
+## My city
+![image](https://github.com/user-attachments/assets/86af1742-0244-4b3a-921c-57b59fabb0fc)
 ## Sheshachalam
 ![image](https://github.com/user-attachments/assets/5b0972b7-091c-4c5c-865d-3f0c511eded9)
 ## Alipiri
