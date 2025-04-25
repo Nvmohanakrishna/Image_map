@@ -1,6 +1,6 @@
 # Ex04 Places Around Me
 # Date:10/04/25
-# name:n v mohana krishna
+# Reg:212224100039
 # AIM
 To develop a website to display details about the places around my house.
 
@@ -106,11 +106,7 @@ across the Swarnamukhi River. Constructed in 1977, the dam primarily serves as a
         </p>
     </head>
 </html>
-
-
 reni.html
-
-
 <html>
     <head>
         <title>
@@ -131,14 +127,7 @@ It is best known for its railway junction, Renigunta Junction (RU), which serves
      area with growing infrastructure. Its proximity to Tirupati makes it an essential 
      stop for devotees and tourists visiting the sacred hills of Tirumala.
 
-
-
-
-
-
-
-
-        </p>
+  </p>
     </head>
 </html>
 
